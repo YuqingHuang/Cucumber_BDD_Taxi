@@ -1,4 +1,4 @@
-package workshop;
+package workshop.hi;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

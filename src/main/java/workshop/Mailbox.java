@@ -1,6 +1,6 @@
 package workshop;
 
-public class Belly {
+public class Mailbox {
     public void eat(int cukes) {
 
     }
